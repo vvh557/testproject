@@ -1,3 +1,4 @@
 #!/bin/bash
 DATE=`/bin/date`
 echo "$DATE Building was sucessful!" >> /tmp/build.log
+echo "This is a test_3"
